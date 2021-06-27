@@ -8,13 +8,12 @@
 📖 &nbsp;At this moment, I'm very interested in learning about the Go programming language and cloud solutions related to concurrency.<br>
 
 ## ⚙️ &nbsp;Current tech stack I work with on a daily basis:
-📜 &nbsp;Typescript as the main language (on frontend and backend).<br>
+📜 &nbsp;Kotlin as the main language, as well as Java.<br>
 ☁️  &nbsp;Google Cloud Platform.<br>
-🐳 &nbsp;Docker.<br>
-🔥 &nbsp;Firebase/Firestore.<br>
+🐳 &nbsp;Docker and Kubernetes.<br>
+🔥 &nbsp;PostgreSQL.<br>
 🕴️ &nbsp;Jenkins for the CI/CD.<br>
-🐈 &nbsp;Nestjs as the core backend framework.<br>
-☕  &nbsp;Vuejs as the core frontend framework.<br>
+🍃 &nbsp;SpringBoot as the core backend framework.<br>
 
 ## 🔬&nbsp;Technologies I'm studying:
 🐻 &nbsp;Go.<br>
