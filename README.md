@@ -9,7 +9,7 @@
 
 ## ⚙️ &nbsp;Current tech stack I work with on a daily basis:
 📜 &nbsp;Kotlin as the main language, as well as Java.<br>
-☁️  &nbsp;Google Cloud Platform.<br>
+☁️ &nbsp;Google Cloud Platform.<br>
 🐳 &nbsp;Docker and Kubernetes.<br>
 🔥 &nbsp;PostgreSQL.<br>
 🕴️ &nbsp;Jenkins for the CI/CD.<br>
