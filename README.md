@@ -5,4 +5,4 @@
 🌎 &nbsp;I speak Portuguese and English.<br>
 🔓 &nbsp;I enjoy working on open source libraries.<br>
 
-You can find more about in: https://lucasguiss.xyz
+You can find more about in: https://lucasguiss.dev
